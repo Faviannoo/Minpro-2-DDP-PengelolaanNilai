@@ -85,7 +85,8 @@ OUTPUT :<br>
 
 FLOWCHART:<br>
 
-<img width="1687" height="1368" alt="MINPROO2 drawio (2)" src="https://github.com/user-attachments/assets/b8c99475-a55e-4601-bcf1-b14e1673f6f4" /><br>
+<img width="2537" height="1431" alt="MINPROO2 drawio (3)" src="https://github.com/user-attachments/assets/a08606bb-12ec-4909-b7b8-9b4f0de86b69" />
+
 
 
 
