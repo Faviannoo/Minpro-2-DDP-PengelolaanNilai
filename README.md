@@ -7,9 +7,17 @@ NIM: 2609116021<br>
 Penjelasan kode :<br>
 
 1. Import Library dan Data Awal
+
+| Library | Penjelasan |
+| --- | --- |
+| `PrettyTable` | Membuat tabel untuk menampilkan data agar lebih rapi di terminal |
+| `pwinput` | Menyembunyikan input password saat pengguna mengetik |
+| `os` | Digunakan untuk menjalankan perintah sistem, seperti membersihkan layar terminal |
+
 <img width="251" height="85" alt="Screenshot 2026-10-06 001754" src="https://github.com/user-attachments/assets/daec4b85-3141-416d-ba0d-4ad14ad69571" />
 
 Bagian ini berisi library yang digunakan serta tempat penyimpanan data mahasiswa<br>
+
 
 2. Function OS
 <img width="209" height="47" alt="Screenshot 2026-10-06 001803" src="https://github.com/user-attachments/assets/b3b554dc-dba4-4264-aa87-ce45725381dd" />
@@ -17,6 +25,12 @@ Bagian ini berisi library yang digunakan serta tempat penyimpanan data mahasiswa
 Function os digunakan untuk membersihkan layar<br>
 
 3. Data Akun
+
+| Akun | Password | Role |
+| --- | --- | --- |
+| `dosen` | `dosen123` | `admin` |
+| `mahasigma` | `user123` | `user` |
+
 <img width="227" height="157" alt="Screenshot 2026-10-06 001815" src="https://github.com/user-attachments/assets/a2f85904-3fe3-43b7-ab73-d816f9b7b4fc" />
 
 Menyimpan username, password, dan role untuk menentukan hak akses pengguna.
@@ -55,7 +69,6 @@ Bagian ini mengatur menu berdasarkan role pengguna.
 <img width="263" height="156" alt="Screenshot 2026-10-06 002105" src="https://github.com/user-attachments/assets/1146740e-e628-4dd1-bfa4-d181a7b26e6c" />
 
 Bagian terakhir mengatur alur keseluruhan program dari login sampai program selesai<br>
-
 
 OUTPUT :<br>
 
